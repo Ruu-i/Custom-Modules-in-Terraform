@@ -1,0 +1,3 @@
+root/terraform.tfvars
+root/.terraform
+root/.terraform.lock.hcl
